@@ -52,7 +52,7 @@ public class RadioButtonFrame extends JFrame{
         italicFont = new Font("Serif", Font.ITALIC, 14);
         boldItalicFont = new Font("Serif", Font.BOLD + Font.ITALIC, 14);
 
-        textField.setFont( plainFont);
+        textField.setFont(plainFont);
 
         plainJRadioButton.addItemListener( new RadioButtonHandler(plainFont));
         boldJRadioButton.addItemListener( new RadioButtonHandler(boldFont));
