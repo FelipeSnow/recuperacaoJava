@@ -1,3 +1,5 @@
+package RadioButtonFrame;
+
 import javax.swing.JFrame;
 
 public class RadioButtonTest {

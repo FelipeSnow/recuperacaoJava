@@ -1,3 +1,5 @@
+package ButtonFrame;
+
 import javax.swing.JFrame;
 
 public class ButtonTest {

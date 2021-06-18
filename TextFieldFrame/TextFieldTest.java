@@ -1,3 +1,5 @@
+package TextFieldFrame;
+
 import javax.swing.JFrame;
 
 public class TextFieldTest{
